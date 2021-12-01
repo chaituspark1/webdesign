@@ -1,0 +1,13 @@
+.cardbody{
+    border: 2px #ddd;
+    padding: 1%;
+    margin: 1%;
+    font-size: 20px;
+    border-radius: 25;
+    text-align: center;
+}
+
+.card{
+    display flex;
+    flex-wrap: wrap;
+}
